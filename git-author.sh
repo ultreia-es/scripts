@@ -26,6 +26,6 @@ do
 done
 
 export GIT_AUTHOR_NAME="${n}"
-export GIT_COMITTER_NAME="${n}"
+export GIT_COMMITTER_NAME="${n}"
 export GIT_AUTHOR_EMAIL="${e}"
-export GIT_COMITTER_EMAIL="${e}"
+export GIT_COMMITTER_EMAIL="${e}"
